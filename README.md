@@ -1,7 +1,9 @@
 # Resume
 
 ## Self-Introduction
-![ai](https://user-images.githubusercontent.com/41410971/81505856-64130180-932d-11ea-85ba-b9ac1ac181a8.jpg)
+<img src="https://user-images.githubusercontent.com/41410971/81505856-64130180-932d-11ea-85ba-b9ac1ac181a8.jpg"  width="300" height="300">
+Computer History Museum, CA, USA
+
 - Name : Dong Jae Lee(DJ Lee)
 - Affiliation: Chung-Ang University(Took 6 Semester, taking a break from University Now) / Uniquify(AI Intern)
 - Major: Software Engineering
