@@ -1,8 +1,8 @@
 # Resume
 
 ## Self-Introduction
-![dj](https://user-images.githubusercontent.com/41410971/81505617-8f94ec80-932b-11ea-92d6-53608740fbaf.jpg)
-<img src="https://user-images.githubusercontent.com/41410971/81505617-8f94ec80-932b-11ea-92d6-53608740fbaf.jpg"  width="700" height="370">
+<img src="https://user-images.githubusercontent.com/41410971/81505617-8f94ec80-932b-11ea-92d6-53608740fbaf.jpg"  width="1000" height="800">
+<br>
 Joshua Tree National Park(CA, USA)
 
 - Name : Dong Jae Lee(DJ Lee)
