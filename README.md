@@ -8,8 +8,8 @@
 - Github : [github.com/leedongjae0611](https://github.com/leedongjae0611)
 - LinkedIn : [linkedin.com/in/djlee](https://www.linkedin.com/in/dong-jae-lee-3b271419b/)
 ```
-My Favorite Things
-Soccer, Baseball, Cycling, Hiking, Swimming, PingPong, Tennis, Journey, Movie, Fruit 
+Favorite Things
+Soccer, Baseball, Cycling, Swimming, PingPong, Tennis, Hiking, Journey, Movie, Fruit 
 ```
 
 ## Education
@@ -23,17 +23,12 @@ Soccer, Baseball, Cycling, Hiking, Swimming, PingPong, Tennis, Journey, Movie, F
 ## Internship
 - Jul.2019 ~ Present  Working as an Intern in Uniquify(In San Jose, California, USA). Working as an Aritificial Intelligence Engineer.
 
-## Certificate
-- TOEIC 900(Mar.2019)
-- Computer Specialist in Spreadsheet & Database Level-1(Apr.2018)
-- Craftsman Information Processing(Jun.2017)
-
 ## Experience
-### Laboratory experience
+### Laboratory Experience
 - Nov.2018 ~ Aug.2019 Studied as an Undergraduate Researcher in Artificial Intelligence Laboratory, Chung-Ang Univ.
-- Dec.2019            Got Outstanding Paper Award from The Korea Multimedia Society. (2019년 한국멀티미디어학회 추계학술대회 우수논문발표상 - 논문제목 : 혼합형 바이오 데이터 예측을 위한 신경망 설계 - 저자명: 서왕덕, 이동재, 김대원(중앙대학교))
+- Dec.2019             Outstanding Paper Award from The Korea Multimedia Society. (2019년 한국멀티미디어학회 추계학술대회 우수논문발표상 - 논문제목 : 혼합형 바이오 데이터 예측을 위한 신경망 설계 - 저자명: 서왕덕, 이동재, 김대원(중앙대학교))
 
-### Research experience
+### Research Experience
 - Sep.2015 ~ Dec.2015	Developed Penalty shoot-out Game using Quartus(Logic Circuit Program)
 - Mar.2018 ~ Jun.2018	Conducted business model called ‘앎’ which provide patients with useful information based on Open Data
 - Sep.2018 ~ Dec.2018	Developed Neural Network Exchange Parser using Javacc
@@ -45,14 +40,19 @@ Soccer, Baseball, Cycling, Hiking, Swimming, PingPong, Tennis, Journey, Movie, F
 - Mar.2019 ~ Jun.2019	Developed Pattern Recognition Project(Machine Learning) using Python
 - May.2019 ~ Jun.2019	Developed ‘Implementation of Memory Management Schems’ using Pintos
 
-### Project(R&D) experience
+### Project(R&D) Experience
 - Nov.2018 ~ Aug.2019	Developed Medical Support Program which predict disease prognosis based on Bio-Data at Artificial Intelligence Laboratory, Chung-Ang Univ.
 - Sep.2018 ~ Dec.2018	Developed AWS server and Kakao-Talk Chat-Bot at CLUG(Chung-Ang Univ. Linux-Unix User Group)
 - Jul.2018 & Feb.2019	Participated in ‘Mathematics-based data analysis techniques Lecture and industrial problem solving Seminar’ at NIMS-ICIM(National Institute for Mathematical Sciences - Innovation Center for Industrial Mathematics)
 - May.2019 ~ Jul.2019	Participated in Back-to-the-Basic Community, CAU Active Learning Community Program 
 
-### Etc.
+### Etc Experience
 -	Jun.2018 ~ Dec.2018 Participated in National Communication Team at Korea Centers for Disease Control and Prevention
+
+## Certificate
+- TOEIC 900(Mar.2019)
+- Computer Specialist in Spreadsheet & Database Level-1(Apr.2018)
+- Craftsman Information Processing(Jun.2017)
 
 ## Scholarship
 - Mar.2015 ~ Feb.2016	Da Vinci Scholarship V(1-1, 1-2) 
