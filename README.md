@@ -2,8 +2,8 @@
 
 ## Self-Introduction
 - Name : Dong Jae Lee(DJ Lee)
-- Affiliation: Chung-Ang University / Uniquify(Intern)
-- Major: Software engineering
+- Affiliation: Chung-Ang University(Took 6 Semester, taking a break from University Now) / Uniquify(Intern)
+- Major: Software Engineering
 - E-mail : ted4562000@naver.com
 - Github : [github.com/leedongjae0611](https://github.com/leedongjae0611)
 - LinkedIn : [linkedin.com/in/djlee](https://www.linkedin.com/in/dong-jae-lee-3b271419b/)
