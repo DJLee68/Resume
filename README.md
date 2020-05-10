@@ -1,6 +1,7 @@
 # Resume
 
 ## Self-Introduction
+![dj](https://user-images.githubusercontent.com/41410971/81505617-8f94ec80-932b-11ea-92d6-53608740fbaf.jpg)
 - Name : Dong Jae Lee(DJ Lee)
 - Affiliation: Chung-Ang University(Took 6 Semester, taking a break from University Now) / Uniquify(AI Intern)
 - Major: Software Engineering
