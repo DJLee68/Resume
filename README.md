@@ -55,6 +55,8 @@ Soccer, Baseball, Cycling, Swimming, PingPong, Tennis, Hiking, Journey, Movie, F
 
 ### Etc Experience
 -	Jun.2018 ~ Dec.2018 / Participated in National Communication Team at Korea Centers for Disease Control and Prevention
+- Mar.2018 ~ Jul.2018	/ Samsung Dream Class(Taught English in Sangok Middle School)
+- Mar.2019 ~ Jul.2019	/ Samsung Dream Class(Taught English in KKachiul Middle School)
 
 ## Certificate
 - TOEIC 900(Mar.2019)
@@ -64,11 +66,11 @@ Soccer, Baseball, Cycling, Swimming, PingPong, Tennis, Hiking, Journey, Movie, F
 ## Scholarship
 - Mar.2015 ~ Feb.2016	/ Da Vinci Scholarship V(1-1, 1-2) 
 - Mar.2018 ~ Feb.2019	/ Da Vinci Scholarship V(2-1, 2-2)
-- Mar.2018 ~ Jul.2018	/ Samsung Dream Class Scholarship(Teaching English in Sangok Middle School)
+- Mar.2018 ~ Jul.2018	/ Samsung Dream Class Scholarship(Taught English in Sangok Middle School)
 - Sep.2018 ~ Dec.2018	/ Merit-based Scholarship(학년우수 at 2-1)
 - Dec.2018 ~ Jan.2019	/ Practical Education(PE) Program Scholarship(AI Lab, CAU)
 - Mar.2019 ~ Jul.2019	/ SW Major Scholarship(3-1)
-- Mar.2019 ~ Jul.2019	/ Samsung Dream Class Scholarship(Teaching English in KKachiul Middle School)
+- Mar.2019 ~ Jul.2019	/ Samsung Dream Class Scholarship(Taught English in KKachiul Middle School)
 - Apr.2019 ~ May.2019	/ Practical Education(PE) Program Scholarship(AI Lab, CAU)
 - Sep.2019 ~ Dec.2019	/ Merit-based Scholarship(학년수석 at 3-1)
 
