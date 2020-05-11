@@ -9,8 +9,9 @@ _Computer History Museum in Mountain View, California_
 - Affiliation: Chung-Ang University(Took 6 Semester, Taking a break from university Now) / Uniquify(AI Intern)
 - Major: Software Engineering
 - E-mail : ted4562000@naver.com
-- Github : [github.com/leedongjae0611](https://github.com/leedongjae0611)
+- Github : [github.com/DJLee68](https://github.com/DJLee68)
 - LinkedIn : [linkedin.com/in/djlee](https://www.linkedin.com/in/dong-jae-lee-3b271419b/)
+- LeetCode : [leetcode.com/djlee](https://leetcode.com/leedongjae0611/)
 ```
 Favorite Things
 Soccer, Baseball, Cycling, Swimming, PingPong, Tennis, Hiking, Journey, Movie, Fruit 
@@ -30,6 +31,8 @@ Soccer, Baseball, Cycling, Swimming, PingPong, Tennis, Hiking, Journey, Movie, F
 ## Experience
 ### Laboratory Experience
 - Nov.2018 ~ Aug.2019 / Studied as an Undergraduate Researcher in Artificial Intelligence Laboratory, Chung-Ang Univ.
+- Dec.2018 ~ Jan.2019	/ Practical Education(PE) Program
+- Apr.2019 ~ May.2019	/ Practical Education(PE) Program
 - Dec.2019 / Received Outstanding Paper Award from The Korea Multimedia Society. (2019년 한국멀티미디어학회 추계학술대회 우수논문발표상 - 논문제목 : 혼합형 바이오 데이터 예측을 위한 신경망 설계 - 저자명: 서왕덕, 이동재, 김대원(중앙대학교))
 
 ### Research Experience
