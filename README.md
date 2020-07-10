@@ -27,13 +27,13 @@ Soccer, Baseball, Cycling, Swimming, PingPong, Tennis, Hiking, Journey, Movie, F
 
 ## Internship
 - Jul.2019 ~ Present / Working as an Intern in Uniquify(In San Jose, California, USA). Working as an Aritificial Intelligence Engineer.  
-+ Develop on unix environment  
-+ Apply the deep learning technology in multiple fields  
-+ Create different neural network architectures to compare the performance on MNIST, affNIST, eMNIST, CIFAR10, Imagenet dataset  
-+ Debug and Test with our own AI framework  
-+ Develop and Test with our own Image Compression way  
-+ Develop and improve conventional compression methods using neural networks    
-+ Apply novel mathmetical way to improve neural network  
+  - Develop on unix environment  
+  - Apply the deep learning technology in multiple fields  
+  - Create different neural network architectures to compare the performance on MNIST, affNIST, eMNIST, CIFAR10, Imagenet dataset  
+  - Debug and Test with our own AI framework  
+  - Develop and Test with our own Image Compression way  
+  - Develop and improve conventional compression methods using neural networks    
+  - Apply novel mathmetical way to improve neural network  
 
 ## Experience
 ### Laboratory Experience
