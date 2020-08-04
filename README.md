@@ -6,7 +6,7 @@
 _Computer History Museum in Mountain View, California_
 
 - Name : Dong Jae Lee(DJ Lee)
-- Affiliation: Chung-Ang University(Took 6 Semester, Taking a break from university Now) / Uniquify(AI Intern)
+- Affiliation: Chung-Ang University / Uniquify(AI Intern)
 - Major: Software Engineering
 - E-mail : ted4562000@naver.com
 - Github : [github.com/DJLee68](https://github.com/DJLee68)
