@@ -12,7 +12,7 @@ _Computer History Museum in Mountain View, California_
 - Github : [github.com/DJLee68](https://github.com/DJLee68)
 - LinkedIn : [linkedin.com/in/djlee](https://www.linkedin.com/in/dong-jae-lee-3b271419b/)
 - LeetCode : [leetcode.com/djlee](https://leetcode.com/leedongjae0611/)
-- Blog : [ai-djlee.tistory.com] (https://ai-djlee.tistory.com/)
+- Blog : [ai-djlee.tistory.com](https://ai-djlee.tistory.com/)
 ```
 Favorite Things
 Soccer, Baseball, Cycling, Swimming, PingPong, Tennis, Hiking, Journey, Movie, Fruit 
