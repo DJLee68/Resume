@@ -21,7 +21,7 @@ Soccer, Baseball, Cycling, Swimming, PingPong, Tennis, Hiking, Journey, Movie, F
 ## Education
 - Mar.2011 ~ Feb.2014 / Go-Yang Foreign Language High School 
 - Mar.2015 ~ Present / Chung-Ang University, Software Engineering  
-(Semester : 2015-1st, 2015-2nd, 2018-1st, 2018-2nd, 2019-1st, 2019-2nd)
+(Semester : 2015-1st, 2015-2nd, 2018-1st, 2018-2nd, 2019-1st, 2019-2nd, 2020-2nd)
 
 ## GPA
 - 4.22 / 4.5 GPA
