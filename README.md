@@ -15,7 +15,7 @@ _Computer History Museum in Mountain View, California_
 - Blog : [ai-djlee.tistory.com](https://ai-djlee.tistory.com/)
 ```
 Favorite Things
-Soccer, Baseball, Cycling, Swimming, PingPong, Tennis, Hiking, Journey, Movie, Fruit 
+Soccer, Baseball, Cycling, Swimming, PingPong, Badminton, Tennis, Hiking, Journey, Movie, Fruit 
 ```
 
 ## Education
