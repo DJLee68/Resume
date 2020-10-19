@@ -27,8 +27,9 @@ Soccer, Baseball, Cycling, Swimming, PingPong, Badminton, Tennis, Hiking, Journe
 - 4.22 / 4.5 GPA
 - 4.36 / 4.5 Major GPA
 
-## Internship
-- Jul.2019 ~ Present / Working as an Intern in Uniquify(In San Jose, California, USA). Working as an Aritificial Intelligence Engineer.  
+## Career
+- Jul.2019 ~ July.2020 / Working as an Intern in Uniquify(In San Jose, California, USA). Working as an Aritificial Intelligence Engineer.  
+- Aug.2020 ~ Present / Working as an AI Engineer in Uniquify(In San Jose, California, USA).
   - Develop on unix environment & mostly Tensorflow/Keras platform 
   - Apply the deep learning technology in multiple fields  
   - Create different neural network architectures to compare the performance on MNIST, affNIST, eMNIST, CIFAR10, Imagenet dataset  
