@@ -30,6 +30,7 @@ Soccer, Baseball, Cycling, Swimming, PingPong, Badminton, Tennis, Hiking, Journe
 ## Career
 - Jul.2019 ~ July.2020 / Working as an Intern in Uniquify(In San Jose, California, USA). Working as an Aritificial Intelligence Engineer.  
 - Aug.2020 ~ Present / Working as an AI Engineer in Uniquify(In San Jose, California, USA).
+
   - Develop on unix environment & mostly Tensorflow/Keras platform 
   - Apply the deep learning technology in multiple fields  
   - Create different neural network architectures to compare the performance on MNIST, affNIST, eMNIST, CIFAR10, Imagenet dataset  
