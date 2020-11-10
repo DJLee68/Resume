@@ -28,7 +28,7 @@ Soccer, Baseball, Cycling, Swimming, PingPong, Badminton, Tennis, Hiking, Journe
 - 4.36 / 4.5 Major GPA
 
 ## Career
-- Jul.2019 ~ July.2020 / Working as an Intern in Uniquify(In San Jose, California, USA). Working as an Aritificial Intelligence Engineer.
+- Jul.2019 ~ July.2020 / Worked as an Intern in Uniquify(In San Jose, California, USA). Worked as an Aritificial Intelligence Engineer.
 - Aug.2020 ~ Present / Working as an AI Engineer in Uniquify(In San Jose, California, USA).
 
   - Develop on unix environment & mostly Tensorflow/Keras platform 
