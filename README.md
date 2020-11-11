@@ -34,7 +34,7 @@ Soccer, Baseball, Cycling, Swimming, PingPong, Badminton, Tennis, Hiking, Journe
   - Develop on unix environment & mostly Tensorflow/Keras platform 
   - Apply the deep learning technology in multiple fields  
   - Create different neural network architectures to compare the performance on MNIST, affNIST, eMNIST, CIFAR10, Imagenet dataset  
-  - Debug and Test with our own AI framework  
+  - Develop and Test with our own AI framework  
   - Develop and Test with our own Image Compression way  
   - Develop and improve conventional compression methods using neural networks    
   - Apply novel mathmetical way to improve neural network  
