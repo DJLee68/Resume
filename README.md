@@ -70,6 +70,7 @@ Soccer, Baseball, Cycling, Swimming, PingPong, Badminton, Tennis, Hiking, Journe
 - Mar.2019 ~ Jul.2019	/ Samsung Dream Class(Taught English in KKachiul Middle School)
 
 ## Certificate
+- TOPCIT 491(Oct.2020)
 - TOEIC 900(Mar.2019)
 - Computer Specialist in Spreadsheet & Database Level-1(Apr.2018)
 - Craftsman Information Processing(Jun.2017)
