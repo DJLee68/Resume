@@ -24,8 +24,8 @@ Soccer, Baseball, Cycling, Swimming, PingPong, Badminton, Tennis, Hiking, Journe
 (Semester : 2015-1st, 2015-2nd, 2018-1st, 2018-2nd, 2019-1st, 2019-2nd, 2020-2nd)
 
 ## GPA
-- 4.27 / 4.5 GPA
-- 4.4 / 4.5 Major GPA
+- 4.4 / 4.5  Major GPA
+- 4.27 / 4.5 Overall GPA
 
 ## Career
 - Jul.2019 ~ July.2020 / Worked as an Intern in Uniquify(In San Jose, California, USA). Worked as an Aritificial Intelligence Engineer.
