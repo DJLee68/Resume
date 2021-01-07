@@ -52,11 +52,17 @@ Soccer, Baseball, Cycling, Swimming, PingPong, Badminton, Tennis, Hiking, Journe
 - Sep.2018 ~ Dec.2018	/ Developed Neural Network Exchange Parser using Javacc
 - Sep.2018 ~ Dec.2018	/ Developed Penalty shoot-out Game using C++
 - Sep.2018 ~ Dec.2018	/ Developed a Searching Tag/Information of Movie in Movie Big Data set using C 
-- Mar.2019 ~ Apr.2019	/ Developed ‘Automated Factory Simulator using Threads Systems’ using Pintos
+- Mar.2019 ~ Jun.2019	/ Developed ‘Automated Factory Simulator using Threads Systems’ using Pintos
 - Mar.2019 ~ Jun.2019	/ Developed Korean Traditional Game ‘Yunori’ using Java.
 - Mar.2019 ~ Jun.2019	/ Developed Compiler Design Project using Python Lex – Yacc
 - Mar.2019 ~ Jun.2019	/ Developed Pattern Recognition Project(Machine Learning) using Python
-- May.2019 ~ Jun.2019	/ Developed ‘Implementation of Memory Management Schems’ using Pintos
+- Mar.2019 ~ Jun.2019	/ Developed ‘Implementation of Memory Management Schems’ using Pintos
+- Sep.2020 ~ Dec.2020 / Analyzed packet transmission using Wireshark
+- Sep.2020 ~ Dec.2020 / Improved kernel data structure(especially linked-list) of Ubuntu
+- Sep.2020 ~ Dec.2020 / Improved ’Holub EmbeddedSQL’ project applying Design Pattern
+- Sep.2020 ~ Dec.2020 / Developed epsilon-NFA to DFA converting program using Python
+- Sep.2020 ~ Dec.2020 / Developed simple calculator using Bison
+- Sep.2020 ~ Dec.2020 / Developed Lambda expression to SKI combinator translator using Python
 
 ### Project(R&D) Experience
 - Nov.2018 ~ Aug.2019	/ Developed Medical Support Program which predict disease prognosis based on Bio-Data at Artificial Intelligence Laboratory, Chung-Ang Univ.
