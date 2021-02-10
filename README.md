@@ -65,6 +65,7 @@ Soccer, Baseball, Cycling, Swimming, PingPong, Badminton, Tennis, Hiking, Journe
 - Sep.2020 ~ Dec.2020 / Developed Lambda expression to SKI combinator translator using Python
 
 ### Project(R&D) Experience
+- Jan.2021 ~ Present  / Participating SNU AI(AI Paper study group)
 - Nov.2018 ~ Aug.2019	/ Developed Medical Support Program which predict disease prognosis based on Bio-Data at Artificial Intelligence Laboratory, Chung-Ang Univ.
 - Sep.2018 ~ Dec.2018	/ Developed AWS server and Kakao-Talk Chat-Bot at CLUG(Chung-Ang Univ. Linux-Unix User Group)
 - Jul.2018 & Feb.2019	/ Participated in ‘Mathematics-based data analysis techniques Lecture and industrial problem solving Seminar’ at NIMS-ICIM(National Institute for Mathematical Sciences - Innovation Center for Industrial Mathematics)
@@ -91,5 +92,6 @@ Soccer, Baseball, Cycling, Swimming, PingPong, Badminton, Tennis, Hiking, Journe
 - Mar.2019 ~ Jul.2019	/ Samsung Dream Class Scholarship(Taught English in KKachiul Middle School)
 - Apr.2019 ~ May.2019	/ Practical Education(PE) Program Scholarship(AI Lab, CAU)
 - Sep.2019 ~ Dec.2019	/ Merit-based Scholarship(학년수석 at 3-1)
+- Sep.2020 ~ Dec.2020 / Merit-based Scholarship(학년수석 at 4-1)
 
 # Thank you!
