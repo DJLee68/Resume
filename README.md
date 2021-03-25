@@ -20,7 +20,7 @@ Soccer, Baseball, Cycling, Swimming, PingPong, Badminton, Tennis, Hiking, Journe
 
 ## Education
 - Mar.2015 ~ Present / Chung-Ang University, Software Engineering  
-(Semester : 2015-1st, 2015-2nd, 2018-1st, 2018-2nd, 2019-1st, 2019-2nd, 2020-2nd)
+(Semester : 2015-1st, 2015-2nd, 2018-1st, 2018-2nd, 2019-1st, 2019-2nd, 2020-2nd, 2021-1st)
 
 ## GPA
 - 4.4 / 4.5  Major GPA
@@ -77,7 +77,7 @@ Soccer, Baseball, Cycling, Swimming, PingPong, Badminton, Tennis, Hiking, Journe
 
 ## Certificate
 - TOPCIT 491(Oct.2020)
-- TOEIC 900(Mar.2019)
+- TOEIC 955(Mar.2021)
 - Computer Specialist in Spreadsheet & Database Level-1(Apr.2018)
 - Craftsman Information Processing(Jun.2017)
 
