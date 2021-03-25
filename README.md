@@ -37,6 +37,7 @@ Soccer, Baseball, Cycling, Swimming, PingPong, Badminton, Tennis, Hiking, Journe
   - Develop and Test with our own Image Compression way  
   - Develop and improve conventional compression methods using neural networks    
   - Apply novel mathmetical way to improve neural network  
+  - Implement Object Detection, Face Recognition Infer Package
 
 ## Experience
 ### Laboratory Experience
