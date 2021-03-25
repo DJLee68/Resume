@@ -32,12 +32,12 @@ Soccer, Baseball, Cycling, Swimming, PingPong, Badminton, Tennis, Hiking, Journe
 - Jul.2020 ~ Present / Working as an AI Engineer in Uniquify(In San Jose, California, USA).
 
   - Develop on unix environment & mostly Tensorflow/Keras platform 
+  - Implement Object Detection, Face Recognition Infer Package
   - Apply the deep learning technology in multiple fields  
   - Develop and Test with our own AI framework  
   - Develop and Test with our own Image Compression way  
   - Develop and improve conventional compression methods using neural networks    
   - Apply novel mathmetical way to improve neural network  
-  - Implement Object Detection, Face Recognition Infer Package
 
 ## Experience
 ### Laboratory Experience
