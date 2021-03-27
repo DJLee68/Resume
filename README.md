@@ -92,6 +92,7 @@ Soccer, Baseball, Cycling, Swimming, PingPong, Badminton, Tennis, Hiking, Journe
 - Mar.2019 ~ Jul.2019	/ Samsung Dream Class Scholarship(Taught English in KKachiul Middle School)
 - Apr.2019 ~ May.2019	/ Practical Education(PE) Program Scholarship(AI Lab, CAU)
 - Sep.2019 ~ Dec.2019	/ Merit-based Scholarship(학년수석 at 3-1)
+- Sep.2019 ~ Feb.2020 / Scholarship from Korean Foundation Hansang for Youth Employment Internship Overseas
 - Sep.2020 ~ Dec.2020 / Merit-based Scholarship(학년수석 at 4-1)
 
 # Thank you!
