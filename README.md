@@ -25,11 +25,11 @@ Soccer, Baseball, Cycling, Swimming, PingPong, Badminton, Tennis, Hiking, Journe
 ## GPA
 - 4.41 / 4.5  Major GPA
 - 4.28 / 4.5 Overall GPA
-- 2nd Class Rank so far
+- 1st Class Rank
 
 ## Career
 - Jul.2019 ~ Jun.2020 / Worked as an Intern in Uniquify(In San Jose, California, USA). Worked as an Aritificial Intelligence Engineer.
-- Jul.2020 ~ Present / Working as an AI Engineer in Uniquify(In San Jose, California, USA).
+- Jul.2020 ~ Jun.2021 / Worked as an AI Engineer in Uniquify(In San Jose, California, USA).
 
   - Develop on unix environment & mostly Tensorflow/Keras platform 
   - Implement Object Detection, Face Recognition Infer Package
@@ -38,6 +38,10 @@ Soccer, Baseball, Cycling, Swimming, PingPong, Badminton, Tennis, Hiking, Journe
   - Develop and Test with our own Image Compression way  
   - Develop and improve conventional compression methods using neural networks    
   - Apply novel mathmetical way to improve neural network  
+
+- Aug.2021 ~ Present / Working as a Research & Engineering Intern in Naver Clova Face Team
+  
+  - Applying Deep Learning to Human Face
 
 ## Experience
 ### Laboratory Experience
